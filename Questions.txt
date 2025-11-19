@@ -1,0 +1,24 @@
+1. Pair Sum / Two Sum – Sorted
+
+Problem:
+Sorted array kuduthiruppanga.
+target sum kedaikanuma nu check pannu.
+
+Example:
+Input: [1, 3, 4, 5, 7, 10], target = 9
+Output: pairs → (4,5), (3,7)
+
+👉 Two pointer: left = 0, right = n-1
+
+2. Check if array is palindrome
+
+Input: "malayalam"
+Two pointers compare from ends.
+
+3. Reverse array using two pointers
+
+Left→Right swap.
+
+4. Remove duplicates from sorted array
+
+Two-pointer stable overwrite.
